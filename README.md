@@ -1,6 +1,4 @@
-# 網路輔助學習系統研究
-
-# 張雅雲
+# 張雅雲＿網路輔助學習系統研究
 
 ## 作業1：
 1. 前測：[pretest.ipynb](https://github.com/YaYunnnnn/net_learning/blob/main/pretest.ipynb)
