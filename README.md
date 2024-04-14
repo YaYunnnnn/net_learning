@@ -3,13 +3,12 @@
 # 張雅雲
 
 作業1：
-前測：https://github.com/YaYunnnnn/net_learning/blob/main/pretest.ipynb
-中側：https://github.com/YaYunnnnn/net_learning/blob/main/mid_test.ipynb
-後側：https://github.com/YaYunnnnn/net_learning/blob/main/End%EF%BC%BFtest.ipynb
+1. 前測：https://github.com/YaYunnnnn/net_learning/blob/main/pretest.ipynb
+2. 中測：https://github.com/YaYunnnnn/net_learning/blob/main/mid_test.ipynb
+3. 後測：https://github.com/YaYunnnnn/net_learning/blob/main/End%EF%BC%BFtest.ipynb
 
-作業2：https://github.com/YaYunnnnn/net_learning/blob/main/video2audio.ipynb
-將影片內容進行文字稿提取。
-
+作業2：將影片內容進行文字稿提取。
+https://github.com/YaYunnnnn/net_learning/blob/main/video2audio.ipynb
 
 作業3：https://github.com/YaYunnnnn/net_learning/blob/main/hk3_github_version.ipynb
 1. 應用情境：公關部門或是教育訓練單位，可以透過民眾或學員的文字反饋，了解文字中所透漏的情緒與在乎的重點。
