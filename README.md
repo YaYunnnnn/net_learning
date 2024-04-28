@@ -29,4 +29,4 @@
 4. 來源：https://github.com/pecu/LLM-RAG-Gradio/blob/main/RAG-Student-Success.ipynb
 
 ## 作業5：在google news做關鍵字擷取，並將內容彙整出googlesheet。 
-https://colab.research.google.com/drive/1f_-C4YU2wlZp_Jn-bUVlOBObk2cAA-3C?usp=sharing
+1. 內容：[HK5.ipynb](https://github.com/YaYunnnnn/net_learning/blob/main/HK5.ipynb)
