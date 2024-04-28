@@ -27,3 +27,6 @@
    如:AI_summary，說他是一個經驗豐富的演說家，但並未揭露有幾年的演說經驗。故此法將針對想進一步了解的資訊進行搜尋。
    4. 協助user不論在要重新編修summary或添加自己看法時，都能快速校對與查閱資料。(並註記資料頁數，協助查閱完整前後文)
 4. 來源：https://github.com/pecu/LLM-RAG-Gradio/blob/main/RAG-Student-Success.ipynb
+
+## 作業5：在google news做關鍵字擷取，並將內容彙整出googlesheet。 
+https://colab.research.google.com/drive/1f_-C4YU2wlZp_Jn-bUVlOBObk2cAA-3C?usp=sharing
