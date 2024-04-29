@@ -30,3 +30,9 @@
 
 ## 作業5：在google news做關鍵字擷取，並將內容彙整出googlesheet。 
 1. 內容：[HK5.ipynb](https://github.com/YaYunnnnn/net_learning/blob/main/HK5.ipynb)
+2. 使用情境：公關每日近期公司網路討論文章，了解外界對於公司的輿論風向與討論要點。
+
+## 期末報告：
+#思考步驟
+1. 作業5擷取網路聲量，並提煉關鍵字。
+2. 將擷取的文本內容導入作業3。
